@@ -9,4 +9,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/GVIKAS17/LeetCode/tree/master/0027-remove-element) |
+## String
+|  |
+| ------- |
+| [0520-detect-capital](https://github.com/GVIKAS17/LeetCode/tree/master/0520-detect-capital) |
 <!---LeetCode Topics End-->
