@@ -13,4 +13,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0520-detect-capital](https://github.com/GVIKAS17/LeetCode/tree/master/0520-detect-capital) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/GVIKAS17/LeetCode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
