@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/GVIKAS17/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/GVIKAS17/LeetCode/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/GVIKAS17/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/GVIKAS17/LeetCode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/GVIKAS17/LeetCode/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/GVIKAS17/LeetCode/tree/master/0066-plus-one) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/GVIKAS17/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/GVIKAS17/LeetCode/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/GVIKAS17/LeetCode/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/GVIKAS17/LeetCode/tree/master/0520-detect-capital) |
@@ -46,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/GVIKAS17/LeetCode/tree/master/0020-valid-parentheses) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/GVIKAS17/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
