@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/GVIKAS17/LeetCode/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/GVIKAS17/LeetCode/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/GVIKAS17/LeetCode/tree/master/0283-move-zeroes) |
+| [0877-stone-game](https://github.com/GVIKAS17/LeetCode/tree/master/0877-stone-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/GVIKAS17/LeetCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/GVIKAS17/LeetCode/tree/master/0066-plus-one) |
 | [0263-ugly-number](https://github.com/GVIKAS17/LeetCode/tree/master/0263-ugly-number) |
+| [0877-stone-game](https://github.com/GVIKAS17/LeetCode/tree/master/0877-stone-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -67,4 +69,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0184-department-highest-salary](https://github.com/GVIKAS17/LeetCode/tree/master/0184-department-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/GVIKAS17/LeetCode/tree/master/0196-delete-duplicate-emails) |
 | [0577-employee-bonus](https://github.com/GVIKAS17/LeetCode/tree/master/0577-employee-bonus) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/GVIKAS17/LeetCode/tree/master/0877-stone-game) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/GVIKAS17/LeetCode/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/GVIKAS17/LeetCode/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/GVIKAS17/LeetCode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
