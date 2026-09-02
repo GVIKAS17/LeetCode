@@ -8,7 +8,7 @@ class Solution(object):
         n = 0
         m = 0
         for i in nums:
-            n += i
+            n = n ^ i
         for i in range(1,a+1):
-            m += i
-        return m - n
+            m = m ^ i
+        return m ^ n
