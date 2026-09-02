@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/GVIKAS17/LeetCode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/GVIKAS17/LeetCode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/GVIKAS17/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/GVIKAS17/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/GVIKAS17/LeetCode/tree/master/0283-move-zeroes) |
 | [0877-stone-game](https://github.com/GVIKAS17/LeetCode/tree/master/0877-stone-game) |
 ## Two Pointers
@@ -39,15 +40,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/GVIKAS17/LeetCode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/GVIKAS17/LeetCode/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/GVIKAS17/LeetCode/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/GVIKAS17/LeetCode/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/GVIKAS17/LeetCode/tree/master/0877-stone-game) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/GVIKAS17/LeetCode/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/GVIKAS17/LeetCode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/GVIKAS17/LeetCode/tree/master/0015-3sum) |
+| [0268-missing-number](https://github.com/GVIKAS17/LeetCode/tree/master/0268-missing-number) |
 ## Greedy
 |  |
 | ------- |
@@ -99,4 +103,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/GVIKAS17/LeetCode/tree/master/0053-maximum-subarray) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/GVIKAS17/LeetCode/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/GVIKAS17/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
