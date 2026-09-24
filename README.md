@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/GVIKAS17/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/GVIKAS17/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/GVIKAS17/LeetCode/tree/master/0283-move-zeroes) |
+| [0739-daily-temperatures](https://github.com/GVIKAS17/LeetCode/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/GVIKAS17/LeetCode/tree/master/0877-stone-game) |
 ## Two Pointers
 |  |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/GVIKAS17/LeetCode/tree/master/0020-valid-parentheses) |
+| [0739-daily-temperatures](https://github.com/GVIKAS17/LeetCode/tree/master/0739-daily-temperatures) |
 ## Trie
 |  |
 | ------- |
@@ -155,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/GVIKAS17/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/GVIKAS17/LeetCode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
