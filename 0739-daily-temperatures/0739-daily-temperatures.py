@@ -8,4 +8,4 @@ class Solution(object):
                 prev = stack.pop()
                 answer[prev] = i - prev
             stack.append(i)
-        return stack
+        return answer
