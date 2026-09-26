@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/GVIKAS17/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/GVIKAS17/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/GVIKAS17/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0038-count-and-say](https://github.com/GVIKAS17/LeetCode/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/GVIKAS17/LeetCode/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/GVIKAS17/LeetCode/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/GVIKAS17/LeetCode/tree/master/0520-detect-capital) |
