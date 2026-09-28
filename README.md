@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/GVIKAS17/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GVIKAS17/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/GVIKAS17/LeetCode/tree/master/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/GVIKAS17/LeetCode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/GVIKAS17/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/GVIKAS17/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/GVIKAS17/LeetCode/tree/master/0283-move-zeroes) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/GVIKAS17/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/GVIKAS17/LeetCode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/GVIKAS17/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0229-majority-element-ii](https://github.com/GVIKAS17/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/GVIKAS17/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/GVIKAS17/LeetCode/tree/master/0268-missing-number) |
 ## Sorting
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/GVIKAS17/LeetCode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/GVIKAS17/LeetCode/tree/master/0075-sort-colors) |
+| [0229-majority-element-ii](https://github.com/GVIKAS17/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/GVIKAS17/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/GVIKAS17/LeetCode/tree/master/0268-missing-number) |
 ## Greedy
@@ -199,4 +202,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/GVIKAS17/LeetCode/tree/master/0075-sort-colors) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/GVIKAS17/LeetCode/tree/master/0229-majority-element-ii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/GVIKAS17/LeetCode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
