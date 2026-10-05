@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/GVIKAS17/LeetCode/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/GVIKAS17/LeetCode/tree/master/0520-detect-capital) |
 | [0796-rotate-string](https://github.com/GVIKAS17/LeetCode/tree/master/0796-rotate-string) |
+| [0856-score-of-parentheses](https://github.com/GVIKAS17/LeetCode/tree/master/0856-score-of-parentheses) |
 ## Math
 |  |
 | ------- |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/GVIKAS17/LeetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/GVIKAS17/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0739-daily-temperatures](https://github.com/GVIKAS17/LeetCode/tree/master/0739-daily-temperatures) |
+| [0856-score-of-parentheses](https://github.com/GVIKAS17/LeetCode/tree/master/0856-score-of-parentheses) |
 ## Trie
 |  |
 | ------- |
@@ -278,4 +280,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/GVIKAS17/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/GVIKAS17/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/GVIKAS17/LeetCode/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
