@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/GVIKAS17/LeetCode/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/GVIKAS17/LeetCode/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/GVIKAS17/LeetCode/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/GVIKAS17/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/GVIKAS17/LeetCode/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/GVIKAS17/LeetCode/tree/master/0520-detect-capital) |
 | [0796-rotate-string](https://github.com/GVIKAS17/LeetCode/tree/master/0796-rotate-string) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/GVIKAS17/LeetCode/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/GVIKAS17/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -291,4 +293,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/GVIKAS17/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/GVIKAS17/LeetCode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/GVIKAS17/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/GVIKAS17/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
